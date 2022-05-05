@@ -1,0 +1,22 @@
+.addPageWrapper {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    padding-left: 18px;
+    background: #EDE1FA;
+}
+
+.addPageBtn {
+    width: 38px;
+    height: 38px;
+    cursor: pointer;
+}
+
+.addPageP {
+    text-decoration: underline;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+}

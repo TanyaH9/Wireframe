@@ -1,0 +1,31 @@
+.pageWrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+}
+
+.pageName {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    padding-left: 19px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #1D1C1D;
+    cursor: pointer;
+}
+
+.deletePage {
+    display: flex;
+    align-items: center;
+    gap: 45px;
+    padding-right: 45px;
+}
+
+.deleteBtn {
+    cursor: pointer;
+}
+

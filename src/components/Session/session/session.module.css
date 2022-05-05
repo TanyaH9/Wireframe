@@ -1,0 +1,16 @@
+.line {
+    width: 100%;
+    border: 1px solid #EDE1FA;  
+}
+
+.searchBar {
+    width: 95%;
+    outline: none;
+    border: none;
+    padding: 10px 0 10px 20px;
+    font-size: 16px;
+}
+
+.addPage {
+    cursor: pointer;
+}

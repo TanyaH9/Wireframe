@@ -1,0 +1,23 @@
+.line {
+    width: 100%;
+    border: 1px solid #EDE1FA;
+}
+
+.backWrapper {
+    width: 100%;
+    border: none;
+    padding: 10px 15px;
+    font-size: 15px;
+    background: #EDE1FA;
+    text-align: end;
+    cursor: pointer;
+}
+
+.backBtn {
+    background: white;
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    padding: 6px 4px;
+    border-radius: 5px;
+}
